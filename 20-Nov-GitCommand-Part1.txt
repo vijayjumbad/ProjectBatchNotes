@@ -1,0 +1,45 @@
+Yesterday's sesssion : GIT commands
+------------------------------------
+-> GIT commands are used to perform operations with GIT Repository
+
+-> Below Git commands we can execute using Git Bash
+
+git help
+
+git help <command-name>
+
+git init
+
+git status
+
+git add <filename>
+
+git add --a
+
+git rm --cache <file-name>
+
+git restore head
+
+git checkout <filename>
+
+git commit -m <msg>
+
+git push
+
+git clone <repo-url> 
+
+git clone -b <branch-name> <repo-url>
+
+git pull
+
+git reset
+
+git log
+
+git stash
+
+git stash apply
+
+git stash list
+
+git branch <branch-name>

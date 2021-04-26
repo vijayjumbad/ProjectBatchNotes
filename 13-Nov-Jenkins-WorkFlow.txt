@@ -1,0 +1,34 @@
+Yesterday's session : Jenkins workflow in Realtime
+-----------------------------------------------------
+
+-> As a developer, we will send an email to git admin team to create repository for our project. All developers will keep project source code in git repository.
+
+-> After Git repository got created, we will send an email to DevOps team to create jenkins jobs for our project.
+
+-> In Realtime, project contains multiple environments like below
+
+	a) local env
+	b) dev env
+	c) qa env (Quality Assurance)
+	d) uat env (user acceptance testing)
+	e) pilot env (pre production)
+	f) prod env (Live env)
+
+-> Our system is called as local env where we will do development and we will perform Unit Testing of our code.
+
+-> After unit testing is completed our code should be moved to Git repository.
+
+Note: All the developers code will be integrated in git repository.
+
+-> All the developers code will be deployed to DEV env
+
+-> All the developers are responsible to test their code in DEV env. That is called as Developer Integration Testing (DIT).
+
+
+-> After DIT is completed, our application will be deployed into QA env so that testers will test our application.
+
+-> After QA testing is completed, application will be deployed into UAT env so that client will test our application
+
+-> After UAT testing is completed, application will be deployed into Pilot env. (Pilot is called as Pre-Prod env)
+
+-> After Pilot testing is completed, applicatio will be deployed into Prod env. Production env is called as Live environment.

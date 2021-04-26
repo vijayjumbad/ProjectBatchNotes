@@ -1,0 +1,131 @@
+12-JRTP @ 10 AM
+04-Nov-2020 Class Notes
+Ashok IT
+•
+Nov 4
+
+04-Nov-2020-ClassNotes.txt
+Text
+Class comments
+
+
+Last session : Maven Multi Module Project
+-----------------------------------------
+Today's session : Agile methodology & JIRA
+------------------------------------------
+
+What is SDLC?
+-------------
+-> SDLC stands for Software Development Life Cycle
+
+-> This SDLC talks about how a project should be developed
+
+-> SDLC contains several phases like below
+
+	a) Requirements gathering
+	b) Requirements analysis
+	c) Designing
+	d) Development
+	e) Testing
+	d) Deployment
+	f) Delivery
+
+-> There are several SDLC methodologies are available
+
+	a) Waterfall 
+	b) v-model
+	c) spiral	
+	d) Agile (Latest)
+
+
+-> Agile is the latest methodology for Projects Development in IT industry.
+
+-> AGILE methodology is a practice that promotes continuous iteration of development and testing throughout the software development lifecycle of the project.
+
+-> In the Agile model, both development and testing activities are concurrent, unlike the Waterfall model.
+
+
+-> In Agile methodology we will deliver project to client in incremental & iterative approach.
+
+-> In Agile methodology project will be delivered in multiple releases.
+
+-> Documentation will have less priority in Agile methodology
+
+-> In every release Testing will happen in Agile methodology
+
+-> In Agile methodology project requirements are not fixed.
+
+Agile Team
+----------------
+1) Product Owner
+2) Scrum Master
+3) Tech Lead
+4) Team members
+
+-> Product Owner is responsible to deliver requirements to client
+
+-> Scrum Master is responsible to manage agile teams
+
+-> Tech Lead is the agile team member (seniour resource). Tech Lead will help team members in solving complex problems.
+
+-> Team members noting but developers & testers.
+
+
+Agile Terminology
+-----------------
+1) Backlog Grooming
+2) Story & Story Points
+3) Sprint Planning
+4) Sprint
+5) Scrum
+6) Mid-Iteration Review
+7) Retrospective
+
+
+Backlog Grooming
+-------------------
+-> Backlog Grooming is the process of identifying pending works in the project
+
+-> For every Pending Work we will create a story in the jira
+
+-> Scrum Master will conduct a meeting for Backlog Grooming.
+
+-> All the agile team members will participate in backlog grooming and will identify pending works.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+04-Nov-2020-ClassNotes.txt
+Displaying 04-Nov-2020-ClassNotes.txt.

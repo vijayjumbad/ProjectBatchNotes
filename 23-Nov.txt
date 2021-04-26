@@ -1,0 +1,18 @@
+1.) In real time the account will be created by admin for every teAM MEMBER.
+
+2.) admin will create repository for the project and will share repo url 
+to entire team.
+
+3.) any team member can create the branches in the repository as per requirment.
+
+4.) the code which is avalible in the bit bucket branches will be deployed to the server using jenkins job.
+
+5.) team members can use any client s/w to perform operation with bitbucket 
+repository like git-gui,git-bash,source tree,ide etc.
+
+6.) when we newly joined in the project, PM will share source code repository
+details will be shared to us in email. using those details we need to clone the repository and need to setup workspace in our 
+local system(make sure we are able to run the application in local system).
+
+7.) sometimes repository branches will be locked by admin then we can't push
+our code to repository.If we really want to push then we need to take permission from PM or scrum master then bit bucket admin will provide permission for our user name for push operation.this permission will take through email.

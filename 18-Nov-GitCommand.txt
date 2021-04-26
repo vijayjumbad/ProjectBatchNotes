@@ -1,0 +1,35 @@
+-> GIT HUB is a cloud platform where we can store our code
+
+-> GIT is version control software. GIT HUB uses Git as version control.
+
+----------------------------------------------------------------
+
+-> Repository is a place where we keep our code.
+
+-> In GIT HUB we can create 2 repositories. They are
+
+   a) public repository
+   b) private repository
+
+-> GIT client software is used to interact with GIT Hub repository
+
+-> GIT Bash is CLI to execute git commands to perform GIT Operations
+
+Git commands
+-------------
+init : To represent our folder as git folder
+
+status : It shows staged, un-staged, un-tracked files
+
+   -> Staged files are eligible for commit
+   -> Un-staged files are not eligible for commit
+   -> Un-Tracked files are new files which we need to stage
+
+add : It is used to stage the files which are un-staged & un-tracked
+
+commit : It used to commit the files from working directory to local repo
+
+push : It used to move files from local repo to central repo
+
+-> Local repository will be available in our system. Central Repository is available in cloud (github)
+------------------------------------------------------------------------

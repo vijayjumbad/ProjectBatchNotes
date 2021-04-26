@@ -1,0 +1,29 @@
+Yesterday's class : Agile Terminology
+
+Today's session : JIRA software
+------------------------------------------------------
+-> Backlog grooming
+
+-> Story & Story Points
+
+-> Sprint Planning
+
+-> Sprint
+
+-> Scrum
+
+-> Mid Iteration Review
+
+-> Retrospective
+---------------------------------------------------------------
+
+
+-> Agile project management will happen in JIRA
+
+-> JIRA is an Atalsian company product.
+
+-> JIRA is commercial software. We can use trial version of JIRA
+
+-> Create JIRA account using below URL
+
+https://id.atlassian.com/signup?continue=https%3A%2F%2Fstart.atlassian.com%2F

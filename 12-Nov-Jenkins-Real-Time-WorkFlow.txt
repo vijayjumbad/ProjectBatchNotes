@@ -1,0 +1,46 @@
+Last session : Agile & JIRA
+----------------------------
+Today's session : Jenkins Realtime Workflow
+--------------------------------------------
+
+-> In realtime, jenkins software installation & jenkins jobs creation will be taken care by DevOps team.
+
+-> For Large scale apps, dedicated devops team will be avaiable in realtime
+
+-> for small scale applications devops team will be available. They will handle 3 or 4 projects.
+
+-> Being a developer we will send request to create Repository in Git/BitBucket.
+
+Note: Once repository got created all the developer will push the code to repository.
+
+-> Being a developer we should send email to DevOps team to create Jenkins jobs for our application build & deployment.
+
+
+-> Once jenkins jobs are created, we can run jenkins job whenever we need build & deployment process.
+
+-> For every environment one jenkins job will be created
+
+---------------Jenkins Job creation requrest mail format-------
+
+To : hisdevops@abc.com
+cc : steve.smith@abc.com
+Subject : Jenkins Job Creation Request | HIS-979
+
+Body :
+
+Hi DevOps Team,
+
+Please create jenkins jobs to perform build & deployment for HIS project with details
+
+GIT Repo URL : <repo-url>
+
+Environments : DEV, QA, UAT & Prod.
+
+@Steve : Please approve this request
+
+Thanks,
+Ashok.
+
+-> Scrum Master will approve our request then DevOps team will create required jenkins jobs and will send details in email reply.
+
+-> Once jenkins jobs are created we can run those jobs to perform Build & Deployment process.

@@ -1,0 +1,34 @@
+Yesterday's session : GIT HUB Introduction
+
+Today's class : GIT Operations
+--------------------------------------------------------------
+
+-> GIT HUB is a cloud platform where we can store our project source code
+
+-> GIT HUB uses GIT as a version control software.
+
+-> In GIT HUB we will create repository for storing source code
+
+-> All developers will install git client software to interact with GIT HUB Repository.
+
+--------------------------------------------------------------
+
+-> Login into github account and create new git repository
+
+
+   repo URL : https://github.com/Ashok-IT-School/12-JRTP-App-One.git
+
+
+Git Commands
+------------
+-> GIT Commands we are going to use to perform operations in git repository
+
+git init : It is used to initialize our folder as git folder
+
+git add : To add files to staging area (making files eligible for commit)
+
+git add remote : to add remote repo url
+
+git commit : to commit files to local repo
+
+git push : to push files from local to central repo

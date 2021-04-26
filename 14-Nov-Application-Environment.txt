@@ -1,0 +1,17 @@
+Yesterday's session : Application Environments
+----------------------------------------------
+
+-> In realtime , for every application multiple environments will be available like below
+
+	1) Local
+	2) DEV
+	3) QA
+	4) UAT
+	5) PILOT
+	6) PRODUCTION
+
+-> To deploy our application to these environments we will use Jenkins jobs
+
+-> Application Environments setup will be done by Admin
+
+-> Jenkins jobs will be created by DevOps team.

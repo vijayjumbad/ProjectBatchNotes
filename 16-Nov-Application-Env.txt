@@ -1,0 +1,57 @@
+Last session : Application Environments
+---------------------------------------------
+
+-> In realtime every application contains several environments like	
+
+		1) Local
+		2) DEV
+		3) QA
+		4) UAT
+		5) PILOT
+		6) Production (Live)
+
+-> These environments are used for application testing.
+
+-> Environments setup will done by infrastructure team.
+
+-> To deploy application in environments we will use Jenkins Jobs.
+
+-> For every environment dedicared jenkins job will be available.
+
+-> Jenkins jobs will be created by Devops team.
+--------------------------------------------------------------
+
+Today's session : Version Control Tools
+--------------------------------------------------------------
+
+-> In realtime project, multiple developers available for development activity.
+
+-> The developers may be working from different location for same project.
+
+-> All the developers code should stored in one place
+
+-> We need monitored access for source code.
+
+
+-> To have code integrationa and monitored access we will use Version Control Softwares.
+
+
+
+
+-> There are several version control softwares are available in market. They are
+
+	1) SVN (Sub version) - almost outdated
+	2) GIT HUB
+	3) Bit Bucket
+
+
+GIT HUB
+-------
+-> GIT HUB Provides software projects hosting and version control management using Git.
+
+-> GIT HUB provided web application to create account
+
+-> If we create account in git hub it will provide some free space in cloud to create repositories for source code management.
+
+-> GIT Hub provides commercial plans also for source code management.
+

@@ -1,0 +1,78 @@
+Yesterday's session : Agile methodology
+---------------------------------------
+
+Agile Team Roles
+----------------
+1) Product Owner
+2) Scrum Master
+3) Tech Lead
+4) Team members
+
+Agile Terminology
+-----------------
+1) Story  & Story Points
+
+-> Story means task
+
+-> Story points represents duration of the task
+	
+	3 points --> 1 day story
+
+	5 points --> 2 days story
+
+	8 points --> 3 days story
+
+Note: Stories we will create in JIRA (Product Owner/SM/TL/TM anybody can create story in jira)
+
+2) Backlog Grooming
+-----------------------
+-> Backlog Grooming meeting will be conducted by Scrum Master
+
+-> In this meeting we will discuss about pending work and will create stories in jira backlog bucket.
+
+3) Sprint Planning & Sprint
+----------------------------
+-> In Agile we will deliver project in incremental & iterative approach i.e we will deliver project in multiple releases.
+
+-> Every Release is called as One Sprint.
+
+-> Sprint Planning meeting conducted by Scrum Master
+
+-> In Sprint Planning meeting we will discuss about stories to be completed in the sprint, sprint goals, sprint duration etc..
+
+Note: Sprint Duration will be 2 weeks (10 working days)
+
+-> Once Sprint Planning is completed, Sprint will start
+
+-> Once Sprint is started, we should assign story to our name in jira and we should complete it.
+
+-> After completion of one story then we will take another story.
+
+Scrum
+-----
+-> Scrum Meeting will be conducted by Scrum master on daily basis
+
+-> In Scrum meeting we should update our task status to Scrum Master
+
+-> If scrum call is in morning we should tell what is our plan for today and which task we are going to work on
+
+-> If scrum call is in evening we should tell what we have done today and what is plan for tomorrow.
+
+-> In Scrum call we should update about our story status to SM
+
+Mid-Iteration Review
+--------------------
+-> After one week of Sprint Mid-Iteration review meeting will be conducted by Scrum Master
+
+-> In this meeting we will reveiw which stories are completed and which stores are pending and will check are we going in the right track or not?
+
+
+Retrospective
+--------------
+-> Retrospective meeting will be conducted by Scrum Master after Sprint is completed.
+
+-> In this meeting we will discuss about our work in last 2 weeks
+
+-> In this we will discuss misktakes we have done, lessons learnt and achievements
+
+-> New ideas we will share for next sprint

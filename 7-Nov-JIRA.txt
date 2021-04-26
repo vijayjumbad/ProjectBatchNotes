@@ -1,0 +1,45 @@
+Yesterday's session : JIRA
+--------------------------
+-> JIRA is a project management tool
+
+-> JIRA is an atlasian product
+
+-> Agile projects work will be managed using JIRA
+----------------------------------------------------------
+
+-> Story means task. Story we will create in jira
+
+-> For Every story, story points will be available
+
+-> Story points will decide duration for the story
+
+---------------------------------------------------------------
+
+-> In Agile projects we need to assign task to ourself.
+
+-> Initially task will be available in 'To-Do' staus
+
+-> When we start working on the task, we should change status to 'In-Progress'
+
+-> Once we complete the story, we should enter comment and we should change status to 'Done'
+
+-> 'Done' status means story completed.
+----------------------------------------------------------------
+
+-> Story
+
+-> Story Points
+
+-> Backlog stories
+
+-> Backlog Grooming (1 - 2 hours)
+
+-> Sprint Planning (2 hours)
+
+-> Sprint ( 2 weeks ) 
+
+-> Scrum (Daily 15-20 mins)
+
+-> Mid Iteration Review (1 hour)
+
+-> Retrospective (1 hour)
